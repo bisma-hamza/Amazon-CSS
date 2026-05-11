@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../HTML Practice"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML Practice"
+	}
+}
