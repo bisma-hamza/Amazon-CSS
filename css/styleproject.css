@@ -19,7 +19,7 @@
  }
 
  .logo {
-     background-image: url("logo.png");
+     background-image: url("../images/logo.png");
      height: 50px;
      width: 100px;
      background-size: cover;
@@ -137,7 +137,7 @@
 
  /** hero-section**/
  .hero-section {
-     background-image: url("hero image.jpg");
+     background-image: url("../images/hero image.jpg");
      background-size: cover;
      height: 400px;
  }
@@ -216,13 +216,6 @@
      display: flex;
      justify-content: center;
      align-items: center;
- }
-
- .logo {
-     background-image: url("logo.png");
-     height: 50px;
-     width: 100px;
-     background-size: cover;
  }
 
  .foot-panel4 {
